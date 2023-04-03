@@ -108,6 +108,38 @@ export default {
           text: 'Hope you have fun and a better understanding after going throughout this tutorial.',
         },
       ],
+	  Spanish: [
+        {
+          background: '',
+          title: '¡Bienvenido!',
+          text: 'Para comenzar con el tutorial, haz clic en el gran botón azúl localizado en el fondo de la interfaz. Es recomendable que leas y prestes atención cuidadosamente para comprenderla completamente. Si te encuentras con algún problema, la página de documentación linkeada abajo puede ser visitada para futura asistencia.',
+        },
+        {
+          background: '',
+          title: 'Seleccionando JRE',
+          text: 'Para seleccionar y descargar un JRE, navegue hacia el apartado de Ajustes y baje hasta encontrar la sección de "descargado de JRE". Selecciona un JRE y haz clic en el botón de descarga. Espera un momento hasta que la descarga finalice y presione clic en el botón de "aplicar" para finalizar el proceso.',
+        },
+        {
+          background: '',
+          title: 'Modificación del Motor',
+          text: 'Para modificar las configuraciones de un mod listado en el apartado de "Motor", haz clic en el botón de "opciones" arriba del botón de activación/desactivación y ajusta las configuraciones a elección.',
+        },
+        {
+          background: '',
+          title: 'Descargando los Logs',
+          text: 'Para descargar los logs, baja hasta el apartado de "Acerca de" y desplázate hacia abajo hasta encontrar la zona de "Información de launcher". Al lado derecho de esta zona encontrarás un botón de "Descargar logs", haz clic en el para poder descargar dicho archivo.',
+        },
+        {
+          background: '',
+          title: 'Añadiendo un Servidor',
+          text: 'Para añadir un servidor, ve al apartado de "Servidores" y haz clic en el ícono de "+", serás derivado a rellanar con la información del servidor que deseas agregar. Si quieres añadir un servidor a la sección de Jugar Rápido en el apartado principal, haz clic en el ícono de la estrella mientras pasas el mouse sobre el servidor que acabas de agregar.',
+        },
+        {
+          background: '',
+          title: '¡Eso es todo!',
+          text: 'Esperamos que hayas disfrutado y tengas mayor entendimiento del launcher después de pasar por el tutorial.',
+        },
+      ],
       Italian: [
         {
           background: '',
@@ -236,6 +268,7 @@ export default {
           text: '希望您在完成本教程后获得乐趣并更好地理解。',
         },
       ],
+	  
       Vietnamese: [
         {
           background: '',
